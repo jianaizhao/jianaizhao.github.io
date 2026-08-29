@@ -1,0 +1,66 @@
+/* ==========================================================================
+    AEROSPACE THEME - DARK VERSION
+    #072140 as the canvas itself — "deep space" mode.
+    ========================================================================== */
+
+/* Core brand palette */
+$navy                       : #072140; // primary deep space blue (background)
+$navy-panel                 : #0c2c52; // slightly lifted panel
+$navy-border                : #1c4474;
+$sky                        : #6fb3e0; // readable link blue on dark
+$sky-bright                 : #9fd0f0;
+$ignition                   : #ff7a45; // propulsion accent
+
+$gray                       : #8a99a8;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+
+/* Color codes used for the site */
+$danger-color               : #ee5f5b;
+$info-color                 : $sky;
+$notice-color               : $gray;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+/* Other basic settings for the template */
+$border-radius              : 6px;
+$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.35);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+    --global-base-color                 : #{$sky};
+    --global-bg-color                   : #{$navy};
+    --global-footer-bg-color            : #04162b;
+    --global-border-color               : #{$navy-border};
+    --global-dark-border-color          : #{$navy-border};
+    --global-code-background-color      : #{$navy-panel};
+    --global-code-text-color            : #{$sky-bright};
+    --global-fig-caption-color          : #{$light-gray};
+    --global-link-color                 : #{$sky};
+    --global-link-color-hover           : #{$sky-bright};
+    --global-link-color-visited         : #{$sky};
+    --global-masthead-link-color        : #ffffff;
+    --global-masthead-link-color-hover  : #{$sky-bright};
+    --global-text-color                 : #e6eef7;
+    --global-text-color-light           : #aebfd0;
+    --global-thead-color                : #{$navy-panel};
+
+    /* aerospace extras */
+    --aero-navy                         : #{$navy};
+    --aero-navy-light                   : #{$navy-panel};
+    --aero-accent                       : #{$ignition};
+    --aero-footer-text                  : #aebfd0;
+
+    /* near-white ink for CV body/detail copy (distinct from the
+       desaturated gray text elsewhere), plus a blue->orange gradient
+       for links so they visually match the CV download button. */
+    --cv-body-color                     : #f2f6fb;
+    --cv-link-gradient                  : linear-gradient(135deg, #{$sky} 0%, #{$ignition} 100%);
+}

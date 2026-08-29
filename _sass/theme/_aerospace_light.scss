@@ -1,0 +1,68 @@
+/* ==========================================================================
+    ACADEMIC THEME - LIGHT VERSION
+    Traditional American scholarly styling: white canvas, near-black serif
+    body text, a single restrained navy accent used sparingly for links and
+    section rules. No decorative color, gradients, or glow.
+    ========================================================================== */
+
+/* Core palette — one dignified navy accent, neutral grays for structure. */
+$navy                       : #14304f; // primary accent (headings rules, hovers)
+$navy-light                 : #1f3f66; // slightly lifted navy
+$navy-lighter               : #1a4b8c; // link blue (readable, restrained)
+
+/* Ink + neutral grays */
+$ink                        : #1a1a1a; // near-black body text
+$gray                       : #5c6b7a;
+$dark-gray                  : #333a41;
+$darker-gray                : #22272c;
+$light-gray                 : #6b7682;
+$lighter-gray               : #e4e6e9; // hairline borders
+
+/* Color codes used for the site */
+$danger-color               : #b3261e;
+$info-color                 : $navy;
+$notice-color               : $gray;
+$success-color              : #2f7d32;
+$warning-color              : #9a6700;
+
+/* Other basic settings for the template */
+$border-radius              : 3px;
+$box-shadow                 : 0 1px 2px rgba(20, 48, 79, 0.06);
+$global-transition          : all 0.15s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Light theme for the site */
+:root {
+    --global-base-color                 : #{$navy};
+    --global-bg-color                   : #ffffff;
+    --global-footer-bg-color            : #ffffff;
+    --global-border-color               : #{$lighter-gray};
+    --global-dark-border-color          : #cfd3d8;
+    --global-code-background-color      : #f6f7f8;
+    --global-code-text-color            : #{$navy};
+    --global-fig-caption-color          : #{$light-gray};
+    --global-link-color                 : #{$navy-lighter};
+    --global-link-color-hover           : #{$navy};
+    --global-link-color-visited         : #6d4a8f;
+    --global-masthead-link-color        : #{$ink};
+    --global-masthead-link-color-hover  : #{$navy-lighter};
+    --global-text-color                 : #{$ink};
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #f2f3f4;
+
+    /* Accent aliases (kept for _aerospace_custom.scss) — all resolve to the
+       single navy accent so no secondary/decorative color appears. */
+    --aero-navy                         : #{$navy};
+    --aero-navy-light                   : #{$navy-light};
+    --aero-accent                       : #{$navy};
+    --aero-footer-text                  : #{$dark-gray};
+
+    /* Crisp near-black ink for CV / prose body copy. Links resolve to a
+       solid navy (no gradient) for a plain scholarly hyperlink. */
+    --cv-body-color                     : #{$ink};
+    --cv-link-gradient                  : #{$navy-lighter};
+}
