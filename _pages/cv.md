@@ -15,7 +15,7 @@ redirect_from:
   <span class="cv-download-btn__icon"><i class="fas fa-file-pdf" aria-hidden="true"></i></span>
   <span class="cv-download-btn__text">
     <span class="cv-download-btn__title">Download my CV</span>
-    <span class="cv-download-btn__meta">PDF &middot; as of August 2026</span>
+    <span class="cv-download-btn__meta">PDF &middot; as of September 2026</span>
   </span>
   <span class="cv-download-btn__icon cv-download-btn__icon--download"><i class="fas fa-download" aria-hidden="true"></i></span>
 </a>
