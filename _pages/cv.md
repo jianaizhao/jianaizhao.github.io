@@ -41,8 +41,8 @@ RESEARCH EXPERIENCE
 
 * **May - December 2024: Master Thesis**
   * [Chair of Fluid Dynamics](https://www.fdy.tu-darmstadt.de/fdy/index.en.jsp).
-  * Thesis Topic: Neural Network based Shock Detection in Compressible Flow at Space-re-entry Conditions. [[PDF]](https://dx.doi.org/10.2139/ssrn.7345002)
-  * About: Developed AI-trained learning-based artificial viscosity stabilization algorithms from the existing model-based Persson Sensor, and integrated them into the existing customized CFD (BoSSS Solver) for online CFD simulations in high-performance computing (HPC, Supercomputer).
+  * Thesis Title: Neural Network based Shock Detection in Compressible Flow at Space-re-entry Conditions. [[PDF]](https://dx.doi.org/10.2139/ssrn.7345002)
+  * About: Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based [https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp](BoSSS Solver) for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable machine-learning alternative to traditional threshold-based sensors such as the [https://arc.aiaa.org/doi/10.2514/6.2013-3061](Persson Sensor).
   * Advisor: [Florian Kummer](https://www.fdy.tu-darmstadt.de/fdy/fdystaff/details_16067.en.jsp)
 
 
@@ -50,7 +50,7 @@ RESEARCH EXPERIENCE
 
 * **August 2021 - May 2022: Bachelor Capstone Project (Group Work)**
   * [Ann and H.J. Smead Department of Aerospace Engineering Sciences](https://www.colorado.edu/aerospace/), Capstone Project was sponsored by [Astroscale U.S.](https://astroscale-us.com/)
-  * Capstone Project Topic: Close Range Orbital Attitude Characterization System (CROACS). [[PDF]](https://zenodo.org/records/16895411)
+  * Capstone Project Title: Close Range Orbital Attitude Characterization System (CROACS). [[PDF]](https://zenodo.org/records/16895411)
   * About: Characterized uncooperative space debris client using a scannerless LiDAR servicer and a customized 3 degree of freedom tumbling rig for ground truth. Employed 3D online template matching for initial pose acquisition and iterative closest point algorithms for dynamic tracking. [Project Summary on CU Website](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects/past-senior-projects/2021-2022/close-range-orbital)
   * Advisor: [Yu Takahashi](https://scholar.google.com/citations?user=F0SHsewAAAAJ&hl=en)
 
