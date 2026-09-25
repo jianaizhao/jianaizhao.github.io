@@ -98,7 +98,10 @@ OUTREACH/ PROFESSIONAL DEVELOPMENT/ SERVICE
   * About: Produced science outreach videos as part of Smith Lab’s NSF-funded research and assisted in maintaining the greenhouse collections used by the lab’s research.
   * Advisor: [Stacey D. Smith](https://www.colorado.edu/ebio/stacey-d-smith)
 
-
+* **Summer 2018: Web Communication Intern**
+  * CU Boulder Strategic Relations and Communications.
+  * About: Creating and updating CU Boulder campus websites.
+  
 * **Summer 2017: RSI Counselor**
   * [Research Science Initiative (RSI-Tsinghua 2017)](https://www.cee.org/programs/research-science-institute-rsi/international-outreach) at Tsinghua University
   * About: Imparting the Rickoids culture to new students, helping students with the creation of the Summerbook, and offering support.
