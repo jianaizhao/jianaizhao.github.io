@@ -67,7 +67,7 @@ RESEARCH EXPERIENCE
 
 * **October 2022 - March 2023: Machine Learning Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
-  * Topic: Data-Driven System Health \& Predictive Maintenance Strategy for Bulk Handling Systems.
+  * Topic: Data-Driven System Health & Predictive Maintenance Strategy for Bulk Handling Systems.
   * About: Analyzed multi-year continuous bulk-handling data to identify operational degradation patterns, establishing data-synchronization protocols to support Industry 4.0 condition-based monitoring.
   * Advisor: [Uwe Klingauf](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_8591.en.jsp)
 
@@ -101,7 +101,7 @@ OUTREACH/ PROFESSIONAL DEVELOPMENT/ SERVICE
 * **Summer 2018: Web Communication Intern**
   * CU Boulder Strategic Relations and Communications.
   * About: Creating and updating CU Boulder campus websites.
-  
+
 * **Summer 2017: RSI Counselor**
   * [Research Science Initiative (RSI-Tsinghua 2017)](https://www.cee.org/programs/research-science-institute-rsi/international-outreach) at Tsinghua University
   * About: Imparting the Rickoids culture to new students, helping students with the creation of the Summerbook, and offering support.
