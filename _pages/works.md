@@ -53,7 +53,7 @@ author_profile: true
     </p>
 
     <p style="margin: 0 0 1rem 0;">
-      Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based [BoSSS Solver](https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp) for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable machine-learning alternative to traditional threshold-based sensors such as the [Persson Sensor](https://arc.aiaa.org/doi/10.2514/6.2013-3061).
+      Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based <a href="https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp" target="_blank" rel="noopener">[BoSSS Solver]</a> for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable machine-learning alternative to traditional threshold-based sensors such as the <a href="https://arc.aiaa.org/doi/10.2514/6.2013-3061" target="_blank" rel="noopener">[Persson Sensor]</a>.
       <a href="https://dx.doi.org/10.2139/ssrn.7345002" target="_blank" rel="noopener">[Paper]</a>
     </p>
   </article>
