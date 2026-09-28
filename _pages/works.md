@@ -53,11 +53,42 @@ author_profile: true
     </p>
 
     <p style="margin: 0 0 1rem 0;">
-      Developed AI-trained learning-based artificial viscosity stabilization algorithms from the existing model-based Persson Sensor, and integrated them into the existing customized CFD (BoSSS Solver) for online CFD simulations in high-performance computing (HPC).
+      Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based [BoSSS Solver](https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp) for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable machine-learning alternative to traditional threshold-based sensors such as the [Persson Sensor](https://arc.aiaa.org/doi/10.2514/6.2013-3061).
       <a href="https://dx.doi.org/10.2139/ssrn.7345002" target="_blank" rel="noopener">[Paper]</a>
     </p>
   </article>
 </div>
+
+
+
+<h2 id="Aerospace-ADP">Aerospace Engineering Advanced Design Project (Group Work)</h2>
+<!-- =========================
+    Aerospace ADP ETHAN
+========================= -->
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="archive__item-teaser">
+      <img src="/images/AeroADP.svg" alt="Aerospace Engineering Advanced Design Project teaser" />
+    </div>
+
+    <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
+      <a href="https://zenodo.org/records/16894535" target="_blank" rel="noopener">
+        Reverse Engineering and Machine Learning for Concept Creation of a Data Mining Hardware
+      </a>
+    </h2>
+
+    <p class="page__meta" style="margin: 0.25rem 0 1rem 0;">
+      <em>Aerospace Engineering Advanced Design Project (Group Work)</em>, April, 2023
+    </p>
+
+    <p style="margin: 0 0 1rem 0;">
+      Engineered a machine learning framework to evaluate fault tolerance in electric aircraft using high-frequency digital twin datasets. Modeled real-world sensor noise, delays, and data corruptions in MATLAB to test the robustness of multiple diagnostic classifiers. Translated model performance drop-offs into actionable hardware specifications for onboard data logging systems.
+      <a href="https://zenodo.org/records/16894535" target="_blank" rel="noopener">[Paper]</a>
+    </p>
+  </article>
+</div>
+
+
 
 <h2 id="bachelor-thesis-group-work">Bachelor Thesis (Group Work)</h2>
 <!-- =========================
