@@ -26,7 +26,7 @@ PROFESSIONAL PREPARATION
 ======
 
 * **MS in Aerospace Engineering, Technical University of Darmstadt, Germany, October 2022 - December 2024**
-  * Thesis Advisor: [Florian Kummer](https://www.fdy.tu-darmstadt.de/fdy/fdystaff/details_16067.en.jsp); Faculty Advisor: [Uwe Klingauf](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_8591.en.jsp)
+  * Thesis Advisor: [Florian Kummer](https://www.fdy.tu-darmstadt.de/fdy/fdystaff/details_16067.en.jsp); Conferral Date: Jan 6, 2025 
 * **BS in Aerospace Engineering Sciences, Germanic Studies Minor, University of Colorado Boulder, United States of America, August 2017 - May 2022**
   * Capstone Project Advisor: [Yu Takahashi](https://scholar.google.com/citations?user=F0SHsewAAAAJ&hl=en); [BS Diploma](https://reg.colorado.edu/cediploma/) ID: 22L1-OHQ6-JUOR, Name: Ji
 * **International Baccalaureate Bilingual Diploma, Beijing Huijia Private School, China, September 2014 - May 2017**
