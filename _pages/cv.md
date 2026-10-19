@@ -103,12 +103,12 @@ OUTREACH/ PROFESSIONAL DEVELOPMENT/ SERVICE
   * About: Creating and updating CU Boulder campus websites.
 
 * **Summer 2017: RSI Counselor**
-  * [Research Science Initiative (RSI-Tsinghua 2017)](https://www.cee.org/programs/research-science-institute-rsi/international-outreach) at Tsinghua University
+  * Research Science Initiative (RSI-Tsinghua 2017) at Tsinghua University
   * About: Imparting the Rickoids culture to new students, helping students with the creation of the Summerbook, and offering support.
   <!-- * Supervisor: Professor Git -->
 
 * **Summer 2015: RSI Scholar**
-  * [Research Science Initiative (RSI-Tsinghua 2015)](https://www.cee.org/newsevents/press-releases/cee-and-tsinghua-university-china-inaugurate-rsi-2015) at Tsinghua University. [CEE Newsletter](https://www.cee.org/sites/default/files/newsletters/cee_fall_2015.pdf) Page 4, Photo "Inaugural Research Science Initiative (RSI) Class at Tsinghua University", second row, 7th from the right-hand side.
+  * Research Science Initiative (RSI-Tsinghua 2015) at Tsinghua University. [CEE Newsletter](https://www.cee.org/sites/default/files/newsletters/cee_fall_2015.pdf) Page 4, Photo "Inaugural Research Science Initiative (RSI) Class at Tsinghua University", second row, 7th from the right-hand side.
   * About: Independent research in flow induced vibration using wind tunnel at the School of Aerospace.
 
 </div>
