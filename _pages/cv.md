@@ -42,7 +42,7 @@ RESEARCH EXPERIENCE
 * **May - December 2024: Master Thesis**
   * [Chair of Fluid Dynamics](https://www.fdy.tu-darmstadt.de/fdy/index.en.jsp).
   * Thesis Title: Neural Network based Shock Detection in Compressible Flow at Space-re-entry Conditions. [[PDF]](https://dx.doi.org/10.2139/ssrn.7345002)
-  * About: Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based [BoSSS Solver](https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp) for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable machine-learning alternative to traditional threshold-based sensors such as the [Persson Sensor](https://arc.aiaa.org/doi/10.2514/6.2013-3061).
+  * About: Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based [BoSSS Solver](https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp) for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable learning based detector alternative to traditional threshold-based [Persson Sensor](https://arc.aiaa.org/doi/10.2514/6.2013-3061).
   * Advisor: [Florian Kummer](https://www.fdy.tu-darmstadt.de/fdy/fdystaff/details_16067.en.jsp)
 
 
@@ -50,48 +50,43 @@ RESEARCH EXPERIENCE
 * **October 2023 - March 2024: Boeing Global Service Jeppesen Cockpit Design Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
   * Topic: Integration of a Steering Wheel and a Conventional Yoke in a Flight Control System. 
-  * About: Cockpit design for a modular flying car with a hybrid setup using Siemens NX. The design blends driving and flying experiences, allowing both translational and rotational movement of the steering wheel to act as a flight control system.
+  * About: Led a team of 4. Cockpit design using Siemens NX, allowing both translational and rotational movement of the steering wheel to act as a flight control system.
   * Advisor: [Jens Schiefele](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_116480.en.jsp)
 
 * **May 2023 - September 2023: Mechanical Engineering Advanced Design Project (Group Work)**
   * [Institute for Robotic Systems in Mechanical Engineering](https://www.maschinenbau.tu-darmstadt.de/irm/institut_irm/index.en.jsp)
   * Title: Analysis of the Potential for Improving Velocity Predictions Using Route Information.
-  * About: Researched the integration of spatial road parameters into LSTM-based vehicle velocity prediction models. Compared model accuracy using OpenStreetMap GPS queries against a custom Most Probable Path (MPP) algorithm designed for signal-deprived environments. Identified key data-conditioning constraints in map parsing and established the efficacy of path continuity in time-series forecasting.
+  * About: Co-led a team of 5. Researched the integration of spatial road parameters into LSTM-based vehicle velocity prediction models. Compared model accuracy using OpenStreetMap GPS queries against a custom Most Probable Path (MPP) algorithm designed for signal-deprived environments. Identified key data-conditioning constraints in map parsing and established the efficacy of path continuity in time-series forecasting.
   * Advisor: [Stephan Rinderknecht](https://www.maschinenbau.tu-darmstadt.de/irm/institut_irm/team_irm/teamdetails_irm_280256.en.jsp) 
 
-* **November 2022 - April 2023: Aerospace Engineering Advanced Design Project (Group Work)**
+* **November 2022 - April 2023: Rolls-Royce Electrical Company, Aerospace Engineering Advanced Design Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
   * Title: Reverse Engineering and Machine Learning for Concept Creation of a Data Mining Hardware [[PDF]](https://zenodo.org/records/16894535).
-  * About: Engineered a machine learning framework to evaluate fault tolerance in electric aircraft using high-frequency digital twin datasets. Modeled real-world sensor noise, delays, and data corruptions in MATLAB to test the robustness of multiple diagnostic classifiers. Translated model performance drop-offs into actionable hardware specifications for onboard data logging systems.
+  * About: Led a team of 5. Engineered a machine learning framework to evaluate fault tolerance in electric aircraft using high-frequency digital twin datasets. Modeled real-world sensor noise, delays, and data corruptions in MATLAB to test the robustness of multiple diagnostic classifiers. Translated model performance drop-offs into actionable hardware specifications for onboard data logging systems. Derived design requirements for onboard data-logger hardware in condition monitoring concept and measurement aggregation hardware for hybrid electric flight systems.
   * Advisor: [Uwe Klingauf](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_8591.en.jsp)
 
-* **October 2022 - March 2023: Machine Learning Project (Group Work)**
+* **October 2022 - March 2023: [AZO Company](https://www.azo.com/en-de/) Machine Learning Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
   * Topic: Data-Driven System Health & Predictive Maintenance Strategy for Bulk Handling Systems.
-  * About: Analyzed multi-year continuous bulk-handling data to identify operational degradation patterns, establishing data-synchronization protocols to support Industry 4.0 condition-based monitoring.
+  * About: Led a team of 6. Analyzed multi-year continuous bulk-handling data to identify operational degradation patterns, establishing data-synchronization protocols to support Industry 4.0 condition monitoring.
   * Advisor: [Uwe Klingauf](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_8591.en.jsp)
 
 
 
 
 
-* **August 2021 - May 2022: Bachelor Capstone Project (Group Work)**
-  * [Ann and H.J. Smead Department of Aerospace Engineering Sciences](https://www.colorado.edu/aerospace/), Capstone Project was sponsored by [Astroscale U.S.](https://astroscale-us.com/)
+* **August 2021 - May 2022: [Astroscale U.S.](https://astroscale-us.com/) Company, Bachelor Capstone Project (Group Work)**
+  * [Ann and H.J. Smead Department of Aerospace Engineering Sciences](https://www.colorado.edu/aerospace/).
   * Capstone Project Title: Close Range Orbital Attitude Characterization System (CROACS). [[PDF]](https://zenodo.org/records/16895411)
-  * About: Characterized uncooperative space debris client using a scannerless LiDAR servicer and a customized 3 degree of freedom tumbling rig for ground truth. Employed 3D online template matching for initial pose acquisition and iterative closest point algorithms for dynamic tracking. [Project Summary on CU Website](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects/past-senior-projects/2021-2022/close-range-orbital)
+  * About: Financial Lead of a team of 11. Characterized uncooperative space debris client using a scannerless LiDAR servicer and a customized 3 degree of freedom tumbling rig for ground truth. Employed 3D online template matching for initial pose acquisition and iterative closest point algorithms for dynamic tracking. [Project Summary on CU Website](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects/past-senior-projects/2021-2022/close-range-orbital)
   * Advisor: [Yu Takahashi](https://scholar.google.com/citations?user=F0SHsewAAAAJ&hl=en)
 
 
 OUTREACH/ PROFESSIONAL DEVELOPMENT/ SERVICE
 ======
-* **August 2026: Paper Reader**
-  * [Research Science Institute (RSI-MIT 2026)](https://www.cee.org/programs/research-science-institute) at Massachusetts Institute of Technology
-  * About: Reviewed Penultimate and Final Papers in Aeronautics and Astronautics.
-
-* **July 2025: Paper Reader**
-  * [Research Science Institute (RSI-MIT 2025)](https://www.cee.org/programs/research-science-institute) at Massachusetts Institute of Technology
-  * About: Reviewed Penultimate and Final Papers in Aeronautics and Astronautics.
-  <!-- * Supervisor: The Users -->
+* **August 2026 & July 2025: Paper Reader**
+  * [Research Science Institute (RSI-MIT 2025 & 2026)](https://www.cee.org/programs/research-science-institute) at Massachusetts Institute of Technology
+  * About: Reviewed penultimate and final papers in Aeronautics and Astronautics. Gave feedback on student penultimate drafts and helped them improve for the final papers, and then made a selection decision during the final review.
 
 * **Summer 2021: [Undergraduate Researcher](https://www.colorado.edu/smithlab/jianai-zhao)**
   * CU Boulder Smith Lab
@@ -104,7 +99,7 @@ OUTREACH/ PROFESSIONAL DEVELOPMENT/ SERVICE
 
 * **Summer 2017: RSI Counselor**
   * Research Science Initiative (RSI-Tsinghua 2017) at Tsinghua University
-  * About: Imparting the Rickoids culture to new students, helping students with the creation of the Summerbook, and offering support.
+  * About: Imparting the Rickoids culture to new students, helping students with the creation of the Summerbook, and organizing events.
   <!-- * Supervisor: Professor Git -->
 
 * **Summer 2015: RSI Scholar**
