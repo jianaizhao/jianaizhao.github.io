@@ -42,7 +42,7 @@ RESEARCH EXPERIENCE
 * **May - December 2024: Master Thesis**
   * [Chair of Fluid Dynamics](https://www.fdy.tu-darmstadt.de/fdy/index.en.jsp).
   * Thesis Title: Neural Network based Shock Detection in Compressible Flow at Space-re-entry Conditions. [[PDF]](https://zenodo.org/records/16894796)
-  * About: Developed data-driven shock detection algorithms in Discontinuous Galerkin (DG) schemes using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained AI sensors into the C#/.NET-based [BoSSS Solver](https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp) for online HPC fluid simulations. Successfully stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable learning based detector alternative to traditional threshold-based [Persson Sensor](https://arc.aiaa.org/doi/10.2514/6.2013-3061).
+  * About: Developed data-driven shock detection algorithms in Discontinuous Galerkin field coordinates using Gradient Boosted Decision Trees and Artificial Neural Networks. Integrated the trained physics-informed AI shock sensors into the C#/.NET-based [BoSSS Solver](https://www.fdy.tu-darmstadt.de/fdyresearch/bossscode/framework/framework.en.jsp) for online HPC fluid simulations. Stabilized Mach 10 Double Mach Reflection flows with bounded error limits, offering a scalable learning based detector alternative to traditional threshold-based [Persson Sensor](https://arc.aiaa.org/doi/10.2514/6.2013-3061).
   * Advisor: [Florian Kummer](https://www.fdy.tu-darmstadt.de/fdy/fdystaff/details_16067.en.jsp)
 
 
