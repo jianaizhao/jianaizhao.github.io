@@ -13,16 +13,16 @@ redirect_from:
 
 <div class="info-card" markdown="1">
 
-I am Jianai Zhao, and my citizenship is the People’s Republic of China. My research interests lie in developing data-driven, physics-informed, learning-based methods to detect faults, anomalies, and abrupt changes in aerospace systems. My work draws on Computational Fluid Dynamics (CFD), Fault Detection and Exclusion (FDE), data-driven decision making, High-Performance Computing (HPC), and Artificial Intelligence/Machine Learning (AI/ML).
+I am Jianai Zhao, a citizen of the People’s Republic of China. My research focuses on developing data-driven, physics-informed, learning-based methods for detecting faults, anomalies, and abrupt changes in aerospace systems. My work integrates Computational Fluid Dynamics (CFD), Fault Detection and Exclusion (FDE), data-driven decision-making, High-Performance Computing (HPC), and Artificial Intelligence/Machine Learning (AI/ML).
 
-I received my BS from the [University of Colorado Boulder](https://www.colorado.edu/), [Ann and H.J. Smead Department of Aerospace Engineering Sciences](https://www.colorado.edu/aerospace/) (United States of America, AeroEngr’22), and my MS from the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Mechanical Engineering Department (Federal Republic of Germany, AeroEngr’24). Both degrees are in Aerospace Engineering (Sciences). Before college, I attended Beijing Huijia Private School (Class of 14IB, IBDP’17) and was selected for the Research Science Initiative (RSI-Tsinghua’15) at Tsinghua University, School of Aerospace Engineering.
+I received my BS in Aerospace Engineering Sciences from the [University of Colorado Boulder](https://www.colorado.edu/), [Ann and H.J. Smead Department of Aerospace Engineering Sciences](https://www.colorado.edu/aerospace/) (United States of America, AeroEngr’22), and my MS in Aerospace Engineering from the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), Mechanical Engineering Department (Federal Republic of Germany, AeroEngr’24). Before university, I attended Beijing Huijia Private School (Class of 14IB, IBDP’17) and was selected for the Research Science Initiative (RSI-Tsinghua’15) at Tsinghua University's School of Aerospace Engineering.
 </div>
 
 ## Beyond Engineering
 
 <div class="info-card" markdown="1">
 
-Aside from engineering, I like hiking and photography. My top 3 beloved tv shows are Two and a Half Men, The Big Bang Theory, and Modern Family, and my favorite anime is Dragon Ball Z. 
+Aside from engineering, I like hiking and photography. My top 3 beloved TV shows are Two and a Half Men, The Big Bang Theory, and Modern Family, and my favorite anime is Dragon Ball Z.
 
 </div>
 

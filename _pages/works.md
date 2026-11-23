@@ -26,7 +26,7 @@ author_profile: true
     </p>
 
     <p style="margin: 0 0 1rem 0;">
-      Implemented a Multi-Agent Proximal Policy Optimization (MAPPO) framework for remaining useful life prediction from engine sensor data. The approach uses sensor-level agents with a centralized critic to learn cycle-by-cycle degradation dynamics and estimate remaining life, while also providing sensor-importance insights through policy-confidence analysis.
+      Implemented a Multi-Agent Proximal Policy Optimization (MAPPO) framework to predict remaining useful life from engine sensor data. The approach uses sensor-level agents with a centralized critic to learn cycle-by-cycle degradation dynamics and estimate remaining life, while also providing sensor-importance insights through policy-confidence analysis.
       <a href="https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data" target="_blank" rel="noopener">[NASA Open Source Data]</a>
     </p>
   </article>
