@@ -50,25 +50,25 @@ RESEARCH EXPERIENCE
 * **October 2023 - March 2024: Boeing Global Service Jeppesen Cockpit Design Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
   * Topic: Integration of a Steering Wheel and a Conventional Yoke in a Flight Control System. 
-  * About: Led a team of 4. Cockpit design using Siemens NX, allowing both translational and rotational movement of the steering wheel to act as a flight control system.
+  * About: Led a team of 4. Designed a cockpit using Siemens NX, enabling translational and rotational steering-wheel movement to act as a flight control system.
   * Advisor: [Jens Schiefele](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_116480.en.jsp)
 
 * **May 2023 - September 2023: Mechanical Engineering Advanced Design Project (Group Work)**
   * [Institute for Robotic Systems in Mechanical Engineering](https://www.maschinenbau.tu-darmstadt.de/irm/institut_irm/index.en.jsp).
   * Title: Analysis of the Potential for Improving Velocity Predictions Using Route Information.
-  * About: Co-led a team of 5. Researched the integration of spatial road parameters into LSTM-based vehicle velocity prediction models. Compared model accuracy using OpenStreetMap GPS queries against a custom Most Probable Path (MPP) algorithm designed for signal-deprived environments. Identified key data-conditioning constraints in map parsing and established the efficacy of path continuity in time-series forecasting.
+  * About: Co-led a team of 5. Researched integrating spatial road parameters into LSTM-based vehicle velocity prediction models. Compared model accuracy using OpenStreetMap GPS queries against a custom Most Probable Path (MPP) algorithm designed for signal-deprived environments. Identified key data-conditioning constraints in map parsing and established the efficacy of path continuity in time-series forecasting.
   * Advisor: [Stephan Rinderknecht](https://www.maschinenbau.tu-darmstadt.de/irm/institut_irm/team_irm/teamdetails_irm_280256.en.jsp) 
 
 * **November 2022 - April 2023: Rolls-Royce Electrical Company, Aerospace Engineering Advanced Design Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
   * Title: Reverse Engineering and Machine Learning for Concept Creation of a Data Mining Hardware [[PDF]](https://zenodo.org/records/16894535).
-  * About: Led a team of 5. Engineered a machine learning framework to evaluate fault tolerance in electric aircraft using high-frequency digital twin datasets. Modeled real-world sensor noise, delays, and data corruptions in MATLAB to test the robustness of multiple diagnostic classifiers. Translated model performance drop-offs into actionable hardware specifications for onboard data logging systems. Derived design requirements for onboard data-logger hardware in condition monitoring concept and measurement aggregation hardware for hybrid electric flight systems.
+  * About: Led a team of 5. Engineered a machine learning framework to evaluate fault tolerance in electric aircraft using high-frequency digital twin datasets. Modeled real-world sensor noise, delays, and data corruption in MATLAB to test the robustness of multiple diagnostic classifiers. Translated model performance drop-offs into actionable hardware specifications for onboard data logging systems. Derived design requirements for onboard data-logger hardware for condition-monitoring concepts and measurement-aggregation hardware for hybrid electric flight systems.
   * Advisor: [Uwe Klingauf](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_8591.en.jsp)
 
 * **October 2022 - March 2023: [AZO Company](https://www.azo.com/en-de/) Machine Learning Project (Group Work)**
   * [Institute of Flight Systems and Automatic Control](https://www.fsr.tu-darmstadt.de/index.en.jsp).
   * Topic: Data-Driven System Health & Predictive Maintenance Strategy for Bulk Handling Systems.
-  * About: Led a team of 6. Analyzed multi-year continuous bulk-handling data to identify operational degradation patterns, establishing data-synchronization protocols to support Industry 4.0 condition monitoring.
+  * About: Led a team of 6. Analyzed multi-year continuous bulk-handling data to identify operational degradation patterns and established data-synchronization protocols to support Industry 4.0 condition monitoring.
   * Advisor: [Uwe Klingauf](https://www.fsr.tu-darmstadt.de/fsr/mitarbeiter_15/mitarbeitende/mitarbeiter_details_fsr_8591.en.jsp)
 
 
@@ -78,7 +78,7 @@ RESEARCH EXPERIENCE
 * **August 2021 - May 2022: [Astroscale U.S.](https://astroscale-us.com/) Company, Bachelor Capstone Project (Group Work)**
   * [Ann and H.J. Smead Department of Aerospace Engineering Sciences](https://www.colorado.edu/aerospace/).
   * Capstone Project Title: Close Range Orbital Attitude Characterization System (CROACS). [[PDF]](https://zenodo.org/records/16895411)
-  * About: Financial Lead of a team of 11. Characterized uncooperative space debris client using a scannerless LiDAR servicer and a customized 3 degree of freedom tumbling rig for ground truth. Employed 3D online template matching for initial pose acquisition and iterative closest point algorithms for dynamic tracking. [Project Summary on CU Website](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects/past-senior-projects/2021-2022/close-range-orbital)
+  * About: Financial Lead of a team of 11. Characterized an uncooperative space debris client using a scannerless LiDAR servicer and a customized 3-degree-of-freedom tumbling rig for ground truth, and employed 3D online template matching for initial pose acquisition and iterative closest point algorithms for dynamic tracking. [Project Summary on CU Website](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects/past-senior-projects/2021-2022/close-range-orbital)
   * Advisor: [Yu Takahashi](https://scholar.google.com/citations?user=F0SHsewAAAAJ&hl=en)
 
 
@@ -86,24 +86,24 @@ OUTREACH/ PROFESSIONAL DEVELOPMENT/ SERVICE
 ======
 * **August 2026 & July 2025: Paper Reader**
   * [Research Science Institute (RSI-MIT 2025 & 2026)](https://www.cee.org/programs/research-science-institute) at Massachusetts Institute of Technology
-  * About: Reviewed penultimate and final papers in Aeronautics and Astronautics. Gave feedback on student penultimate drafts and helped them improve for the final papers, and then made a selection decision during the final review.
+  * About: Reviewed penultimate and final papers in Aeronautics and Astronautics. Provided feedback on students’ penultimate drafts to help them improve for the final papers, then made a selection decision during the final review.
 
 * **Summer 2021: [Undergraduate Researcher](https://www.colorado.edu/smithlab/jianai-zhao)**
   * CU Boulder Smith Lab
-  * About: Produced science outreach videos as part of Smith Lab’s NSF-funded research and assisted in maintaining the greenhouse collections used by the lab’s research.
+  * About: Undergrad Research Assistant (Student Assistant I). Produced science outreach videos as part of U.S. NSF-funded research and helped maintain the greenhouse collections used by the lab’s research.
   * Advisor: [Stacey D. Smith](https://www.colorado.edu/ebio/stacey-d-smith)
 
 * **Summer 2018: Web Communication Intern**
   * CU Boulder Strategic Relations and Communications.
-  * About: Creating and updating CU Boulder campus websites.
+  * About: Created and updated CU Boulder campus websites.
 
 * **Summer 2017: RSI Counselor**
   * Research Science Initiative (RSI-Tsinghua 2017) at Tsinghua University
-  * About: Imparting the Rickoids culture to new students, helping students with the creation of the Summerbook, and organizing events.
+  * About: Shared Rickoids culture with new students, helped students create the Summerbook, and organized events.
   <!-- * Supervisor: Professor Git -->
 
 * **Summer 2015: RSI Scholar**
   * Research Science Initiative (RSI-Tsinghua 2015) at Tsinghua University. [CEE Newsletter](https://www.cee.org/sites/default/files/newsletters/cee_fall_2015.pdf) Page 4, Photo "Inaugural Research Science Initiative (RSI) Class at Tsinghua University", second row, 7th from the right-hand side.
-  * About: Independent research in flow induced vibration using wind tunnel at the School of Aerospace.
+  * About: Independent research on flow-induced vibration using a wind tunnel.
 
 </div>
